@@ -1,0 +1,24 @@
+# robots.txt generated at http://tool.chinaz.com/robots/
+User-agent: *
+Disallow:
+Crawl-delay: 10
+Disallow: /www.careerchina.com/working-in-china.html
+Allow: /www.careerchina.com/
+Allow: /www.careerchina.com/jobs-in-china.html
+Allow: /www.careerchina.com/companies-in-china.html
+Allow: /www.careerchina.com/company.html
+Allow: /www.careerchina.com/how-to-move-to-china.html
+Allow: /www.careerchina.com/job-placement-china.html
+Allow: /www.careerchina.com/china-work-visa.html
+Allow: /www.careerchina.com/moving-to-china.html
+Allow: /www.careerchina.com/life-in-china.html
+Allow: /www.careerchina.com/live-in-china.html
+Allow: /www.careerchina.com/travel-in-china.html
+Allow: /www.careerchina.com/work-in-china.html
+Allow: /www.careerchina.com/guides.html
+Allow: /www.careerchina.com/on-boarding.html
+Allow: /www.careerchina.com/about-career-china.html
+Allow: /www.careerchina.com/blogDetails.html
+Allow: /www.careerchina.com/term.html
+Allow: /www.careerchina.com/policy.html
+Sitemap: http://www.careerchina.com/sitemap.xml
